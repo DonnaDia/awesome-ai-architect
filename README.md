@@ -35,7 +35,7 @@
 - [Certifications](certifications.md) - AI engineering, solution architecture and cloud certifications
 
 ### 💼 Career Development
-- [Career Guide](career.md) - Role snapshots, portfolio tips, and profile building
+- ✅ [Career Guide](career.md) - Role snapshots, portfolio tips, and profile building
 
 ### 🎯 Interview Preparation
 - [Interview Prep](interview-prep.md) - GenAI system design, practice questions, and frameworks
