@@ -7,7 +7,7 @@
 ## 📚 Table of Contents
 
 ### 🏗️ Core Topics
-- [AI Architecture Patterns](ai-architecture-topics/ai-architecture-patterns.md) - RAG, agents, pipelines, and orchestration
+- ✅ [AI Architecture Patterns](ai-architecture-topics/ai-architecture-patterns.md) - RAG, agents, pipelines, and orchestration
 - [Vector Stores & Embeddings](ai-architecture-topics/vector-stores-and-embeddings.md) - Storage, retrieval, and similarity search
 - [Databases for AI](ai-architecture-topics/databases-for-ai.md) - Relational tables, vector indexes, feature stores, and metadata catalogs
 - [Serving & Scaling](ai-architecture-topics/serving-and-scaling.md) - Inference servers, GPUs, and autoscaling
