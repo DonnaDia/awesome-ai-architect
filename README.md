@@ -32,9 +32,9 @@
 
 ### 🎓 Learning Resources
 - [Courses](courses.md) - AI engineering and solution architecture courses
-- [Certifications](certifications.md) - AI engineering, solution architecture and cloud certifications
+- ✅ [Certifications](certifications.md) - AI engineering, solution architecture and cloud certifications
 
-### 💼 Career Development
+### ✅ 💼 Career Development
 - ✅ [Career Guide](career.md) - Role snapshots, portfolio tips, and profile building
 
 ### 🎯 Interview Preparation
@@ -79,7 +79,7 @@ This repository curates learning resources, certifications, career tips, and int
 2. **Choosing between models?** Learn [Model Routing](ai-architecture-topics/model-routing.md)
 3. **Building RAG systems?** Check [Vector Stores & Embeddings](ai-architecture-topics/vector-stores-and-embeddings.md)
 4. **Preparing for interviews?** Jump to [Interview Prep](interview-prep.md)
-5. **Career planning?** Explore [Career Guide](career.md)
+5. ✅ **Career planning?** Explore [Career Guide](career.md)
 
 ## 📖 How to Use This Guide
 
